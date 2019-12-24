@@ -1,6 +1,6 @@
 # layDate-
 layDate 是 layui 独立维护的三大组件之一 、用于对日期的操作
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -16,4 +16,4 @@ laydate.render({
 });
 </script>
 </body>
-</html>
+</html>```
